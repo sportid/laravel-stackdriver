@@ -1,6 +1,6 @@
 {
   "name": "laravel-stackdriver",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": "git@github.com:GlueDev/laravel-stackdriver.git",
   "author": "Diederik van den Burger <diederik@glue.group>",
   "devDependencies": {
